@@ -12,7 +12,7 @@ form.addEventListener('submit', async (event) => {
 
   if (formData.message.length < 10) {
     statusText.textContent = 'Please enter a message of at least 10 characters.';
-    statusText.style.color = 'red';
+    statusText.style.color = 'aqua';
     return;
   }
 
@@ -26,14 +26,14 @@ try {
 
     if (response.ok) {
       statusText.textContent = 'Message sent successfully!';
-      statusText.style.color = 'green';
+      statusText.style.color = 'aqua';
       form.reset();
     } else {
       statusText.textContent = 'Something went wrong. Please try again.';
-      statusText.style.color = 'red';
+      statusText.style.color = 'aqua';
     }
   } catch (error) {
     statusText.textContent = 'Network error. Please check your connection.';
-    statusText.style.color = 'red';
+    statusText.style.color = 'aqua';
   }
 });
