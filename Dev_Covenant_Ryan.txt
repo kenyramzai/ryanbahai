@@ -1,31 +1,56 @@
-MULTI FAITH DEVOTIONAL
-THE COVENANT
+<HTML>
+  <HEAD>
+    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Ryan Kazemi. Keny Ramzai.">
+  </HEAD>
+  <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
+    <H1>Ryan's Baha'i Site</H1>
+    <H1>Multi-Faith Devotionals</H1>
+    <H1>The Covenant</H1>
+<UL>
+     
 
-1) Know therefore that the Lord your God is God; he is the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commandments. 
-— Deuteronomy 7:9 (Bible)
+<P>1) Know therefore that the Lord your God is God; he is the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commandments. <BR><BR>
+— Deuteronomy 7:9 (Bible)</P>
 
-2) I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.
-— Jeremiah 31:33 (Bible)
+<P>2) I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.<BR><BR>
+— Jeremiah 31:33 (Bible)</P>
 
-3) This is my blood of the covenant, which is poured out for many for the forgiveness of sins.
-— Matthew 26:28 (Bible)
+<P>3) This is my blood of the covenant, which is poured out for many for the forgiveness of sins.<BR><BR>
+— Matthew 26:28 (Bible)</P>
 
-4) And [recall, O People of the Scripture], when Allah took the covenant of the prophets, [saying], 'Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.' 
-— Surah Ali 'Imran 3:81 (Qur'an)
+<P>4) And [recall, O People of the Scripture], when Allah took the covenant of the prophets, [saying], 'Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.'<BR><BR> 
+— Surah Ali 'Imran 3:81 (Qur'an)</P>
 
-5) And fulfill the covenant of Allah when you have taken it, [O believers], and do not break oaths after their confirmation... 
-— Surah An-Nahl 16:91 (Qu'ran)
+<P>5) And fulfill the covenant of Allah when you have taken it, [O believers], and do not break oaths after their confirmation... <BR><BR>
+— Surah An-Nahl 16:91 (Qu'ran)</P>
 
-*** INTERLUDE Christie singing "Abide by me"
+<P>6) Gather them… together around this Divine Law, the covenant of which Thou hast established with all Thy Prophets and Thy Messengers, and Whose ordinances Thou hast written down in Thy Tablets and Thy Scriptures.<BR><BR>
+- Baha’u'llah, Prayers and Meditations by Baha’u'llah, p. 106</P>
 
-6) Gather them…together around this Divine Law, the covenant of which Thou hast established with all Thy Prophets and Thy Messengers, and Whose ordinances Thou hast written down in Thy Tablets and Thy Scriptures.
-- Baha’u'llah, Prayers and Meditations by Baha’u'llah, p. 106
+<P>7) A Covenant in the religious sense is a binding agreement between God and man, whereby God requires of man certain behaviour in return for which He guarantees certain blessings, or whereby He gives man certain bounties in return for which He takes from those who accept them an undertaking to behave in a certain way.<BR><BR>
+- The Universal House of Justice, 23 March 1975, The Covenant compilation</P>
 
-7) A Covenant in the religious sense is a binding agreement between God and man, whereby God requires of man certain behaviour in return for which He guarantees certain blessings, or whereby He gives man certain bounties in return for which He takes from those who accept them an undertaking to behave in a certain way.
-- The Universal House of Justice, 23 March 1975, The Covenant compilation
+<P>8) The Covenant of God in this Day of Manifestation is a Lifeboat, an Ark of Salvation. All true followers of the Blessed Perfection are sheltered and protected in this Ark. Whoever leaves it, trusting in his own will and strength, will drown and be destroyed. For the Blessed Perfection left no possibility for discord, disagreement, and dissension. The Covenant is like the sea, and the believers are as the fishes in the sea. If a fish leaves the water, it cannot live.<BR><BR>
+- Abdu’l-Baha, quoted in Ten days in the Light of Akka p. 49 </P>
 
-8) The Covenant of God in this Day of Manifestation is a Lifeboat, an Ark of Salvation. All true followers of the Blessed Perfection are sheltered and protected in this Ark. Whoever leaves it, trusting in his own will and strength, will drown and be destroyed. For the Blessed Perfection left no possibility for discord, disagreement, and dissension. The Covenant is like the sea, and the believers are as the fishes in the sea. If a fish leaves the water, it cannot live.
-- Abdu’l-Baha, quoted in Ten days in the Light of Akka p. 49 
-
-TWO PICTURES ABOUT THE COVENANT (By Ryan)
+<P>TWO PICTURES ABOUT THE COVENANT (By Ryan)</P>
+   
+       <H2>Contents of Site / Navigation </H2>
+  <UL>
+    <LI><A HREF = "/ryanbahai/index.html">Home page</A></LI>
+    <LI><A HREF = "/ryanbahai/singingprayers.html">Singing Prayers</A></LI>
+    <LI><A HREF = "/ryanbahai/articles.html">Articles</A></LI>
+    <LI><A HREF = "/ryanbahai/tests.html">Tests and trials compilation</A></LI>
+    <LI><A HREF = "/ryanbahai/devotionals.html">Multi-Faith devotionals</A></LI>
+    <LI><A HREF = "/ryanbahai/writtenprayers.html">Selected Written Prayers</A></LI>
+    
+  </UL>
+</UL>
+<HR>
+  <CENTER>Copywright &copy; 2026 Ryan Kazemi, pen name Keny Ramzai<BR>
+  <A HREF = "/ryanbahai/contact.html">Contact Form</A></CENTER>
+  </B>  </BODY>
+</HTML>
 
