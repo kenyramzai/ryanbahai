@@ -1,55 +1,48 @@
-MULTI-FAITH DEVOTIONS
-JUSTICE
-
-1) Injustice anywhere is a threat to justice everywhere.
-- Martin Luther King, Jr.
-
-2) Teach me, O Lord, the way of thy statutes; and I shall keep it unto the end.
-Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart.
-Make me to go in the path of thy commandments; for therein do I delight.
-Incline my heart unto thy testimonies, and not to covetousness.
-Turn away mine eyes from beholding vanity; and quicken thou me in thy way.
-- Psalms 199: 33-37 King James Version
-
-3) At his best, man is the noblest of all animals; separated from law and justice he is the worst.
-- Aristotle
-
-4) O SON OF SPIRIT! 
-The best beloved of all things in My sight is Justice; turn not away therefrom if thou desirest Me, and neglect it not that I may confide in thee. By its aid thou shalt see with thine own eyes and not through the eyes of others, and shalt know of thine own knowledge and not through the knowledge of thy neighbor. Ponder this in thy heart; how it behooveth thee to be. Verily justice is My gift to thee and the sign of My loving-kindness. Set it then before thine eyes.
-- The Hidden Words, Arabic number 2.
-
-5) It is certain, in any case, that ignorance, allied with power, is the most ferocious enemy justice can have.
-- James Baldwin
-
-*** INTERLUDE: Christie song
-
-
-6) In matters of truth and justice, there is no difference between large and small problems, for issues concerning the treatment of people are all the same. 
-- Albert Einstein
-
-7) The light of men is Justice. Quench it not with the contrary winds of oppression and tyranny. The purpose of justice is the appearance of unity among men. The ocean of divine wisdom surgeth within this exalted word, while the books of the world cannot contain its inner significance.
-- Tablets of Baha'u'llah revealed after the Kitab-i-Aqdas, pp. 66-67
-
-8) There is a higher court than courts of justice and that is the court of conscience. It supersedes all other courts.
-- Mahatma Gandhi
-
-9) O people of God! That which traineth the world is Justice, for it is upheld by two pillars, reward and punishment. These two pillars are the sources of life to the world.
-- Baha'u'llah, in the Ishraqat (Splendors).
-Tablets of Baha'u'llah p. 128
-
 <HTML>
   <HEAD>
     <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Justice. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Justice</H1>
 <UL>
 
-TEXT HERE
+<P>1) Injustice anywhere is a threat to justice everywhere.<BR><BR>
+- Martin Luther King, Jr.</P>
+
+<P>2) Teach me, O Lord, the way of thy statutes; and I shall keep it unto the end.<BR>
+Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart.<BR>
+Make me to go in the path of thy commandments; for therein do I delight.<BR>
+Incline my heart unto thy testimonies, and not to covetousness.<BR>
+Turn away mine eyes from beholding vanity; and quicken thou me in thy way.<BR><BR>
+- Psalms 199: 33-37 King James Version</P>
+
+<P>3) At his best, man is the noblest of all animals; separated from law and justice he is the worst.<BR><BR>
+- Aristotle</P>
+
+<P>4) O SON OF SPIRIT! <BR>
+The best beloved of all things in My sight is Justice; turn not away therefrom if thou desirest Me, and neglect it not that I may confide in thee. By its aid thou shalt see with thine own eyes and not through the eyes of others, and shalt know of thine own knowledge and not through the knowledge of thy neighbor. Ponder this in thy heart; how it behooveth thee to be. Verily justice is My gift to thee and the sign of My loving-kindness. Set it then before thine eyes.<BR><BR>
+- The Hidden Words, Arabic number 2.</P>
+
+<P>5) It is certain, in any case, that ignorance, allied with power, is the most ferocious enemy justice can have.<BR><BR>
+- James Baldwin</P>
+
+<P>6) In matters of truth and justice, there is no difference between large and small problems, for issues concerning the treatment of people are all the same. <BR><BR>
+- Albert Einstein</P>
+
+<P>7) The light of men is Justice. Quench it not with the contrary winds of oppression and tyranny. The purpose of justice is the appearance of unity among men. The ocean of divine wisdom surgeth within this exalted word, while the books of the world cannot contain its inner significance.<BR><BR>
+- Tablets of Baha'u'llah revealed after the Kitab-i-Aqdas, pp. 66-67</P>
+
+<P>8) There is a higher court than courts of justice and that is the court of conscience. It supersedes all other courts.<BR><BR>
+- Mahatma Gandhi</P>
+
+<P>9) O people of God! That which traineth the world is Justice, for it is upheld by two pillars, reward and punishment. These two pillars are the sources of life to the world.<BR><BR>
+- Baha'u'llah, in the Ishraqat (Splendors).<BR>
+Tablets of Baha'u'llah p. 128</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
