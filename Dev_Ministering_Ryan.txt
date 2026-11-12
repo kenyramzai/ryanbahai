@@ -1,52 +1,46 @@
-MULTI FAITH DEVOTIONAL
-MINISTERING / MISSIONARY / PIONEERING
-
-1) Thousands of candles can be lighted from a single candle.
-- Buddha
-
-2) Then I heard the voice of the Lord saying, 'Whom shall I send? And who will go for us?' And I said, 'Here am I. Send me!'
-- Isaiah 6:8 (Bible)
-
-3) Go into all the world and preach the gospel to all creation.
-- Mark 16:15 (Bible)
-
-4) And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much and will inherit eternal life.
-- Matthew 19:29 (Bible)
-
-5) Invite to the way of your Lord with wisdom and fair preaching, and argue with them in a way that is best.
-- Surah An-Nahl 16:125 (Qur'an)
-
-*** INTERLUDE Christie singing "I surrender all"
-
-6) Baha'u'llah Himself testifies 'They that have forsaken their Country in the path of God and subsequently ascended unto His presence, such souls shall be blessed by the Concourse on High and their names recorded by the Pen of Glory among such as have laid down their lives as martyrs in the path of God, the Help in Peril, the Self Subsistent. 
-- Quoted by the Universal House of Justice
-
-7) It behoveth whosoever willeth to journey for the sake of God, and whose intention is to proclaim His Word and quicken the dead, to bathe himself with the waters of detachment, and to adorn his temple with the ornaments of resignation and submission. Let trust in God be his shield, and reliance on God his provision, and the fear of God his raiment. Let patience be his helper, and praiseworthy conduct his succorer, and goodly deeds his army. (...)
-- Baha'u'llah, Messages to America, p.25-26
-
-8) And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
-And ye are witnesses of these things.
-And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
-- Luke 24:47-49 (Bible)
-
-9) A prayer for pioneers (from the manual for pioneers by Ruhiyyih Khanum)
-
-O Lord!
-Open Thou the door, provide the means, prepare the way, make safe the path, that we may be guided to those souls whose hearts are prepared for Thy Cause and that they may be guided to us. Verily, Thou art the Merciful, the Most Bountiful, the All-Powerful.
-
 <HTML>
   <HEAD>
     <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Ministering / Missionary / Pioneering. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Ministering / Missionary / Pioneering</H1>
 <UL>
 
-TEXT HERE
+<P>1) Thousands of candles can be lighted from a single candle.<BR><BR>
+- Buddha</P>
+
+<P>2) Then I heard the voice of the Lord saying, 'Whom shall I send? And who will go for us?' And I said, 'Here am I. Send me!'<BR><BR>
+- Isaiah 6:8 (Bible)</P>
+
+<P>3) Go into all the world and preach the gospel to all creation.<BR><BR>
+- Mark 16:15 (Bible)</P>
+
+<P>4) And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much and will inherit eternal life.<BR><BR>
+- Matthew 19:29 (Bible)</P>
+
+<P>5) Invite to the way of your Lord with wisdom and fair preaching, and argue with them in a way that is best.<BR><BR>
+- Surah An-Nahl 16:125 (Qur'an)</P>
+
+<P>6) Baha'u'llah Himself testifies 'They that have forsaken their Country in the path of God and subsequently ascended unto His presence, such souls shall be blessed by the Concourse on High and their names recorded by the Pen of Glory among such as have laid down their lives as martyrs in the path of God, the Help in Peril, the Self Subsistent. <BR><BR>
+- Quoted by the Universal House of Justice</P>
+
+<P>7) It behoveth whosoever willeth to journey for the sake of God, and whose intention is to proclaim His Word and quicken the dead, to bathe himself with the waters of detachment, and to adorn his temple with the ornaments of resignation and submission. Let trust in God be his shield, and reliance on God his provision, and the fear of God his raiment. Let patience be his helper, and praiseworthy conduct his succorer, and goodly deeds his army. (...)<BR><BR>
+- Baha'u'llah, Messages to America, p.25-26</P>
+
+<P>8) And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.<BR>
+And ye are witnesses of these things.<BR>
+And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.<BR><BR>
+- Luke 24:47-49 (Bible)</P>
+
+<P>9) A prayer for pioneers (from the manual for pioneers by Ruhiyyih Khanum)<BR><BR>
+
+O Lord!<BR>
+Open Thou the door, provide the means, prepare the way, make safe the path, that we may be guided to those souls whose hearts are prepared for Thy Cause and that they may be guided to us. Verily, Thou art the Merciful, the Most Bountiful, the All-Powerful.</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
