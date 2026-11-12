@@ -1,67 +1,62 @@
-MULTI FAITH DEVOTIONAL
-PEACE
-
-1) Rejoice in the Lord always: and again I say, Rejoice.
-Let your moderation be known unto all men. The Lord is at hand.
-Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
-And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
-Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
-Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
-- Bible: Philippians 4: 4-9
-
-2) Peace comes from within. Do not seek it without. 
-— Buddha
-
-3) Peace cannot be kept by force. It can only be achieved by understanding. 
-— Albert Einstein
-
-4) True peace is not merely the absence of tension: it is the presence of justice. 
-— Martin Luther King Jr.
-
-5) There is no 'way to peace,' there is only 'peace'." — Mahatma Gandhi
-
-6) The well-being of mankind, its peace and security, are unattainable unless and until its unity is firmly established.
-- Baha'u'llah, Gleanings CXXXI
-
-7) You will find peace not by trying to escape your problems, but by confronting them courageously.
-- J. Donald Walters
-
-*** INTERLUDE: Christie singing "Peace like a river."
-
-8) Peace isn't a feeling to relate to. It's a higher quality of beingness to return to. 
-- John de Ruiter
-
-9) There was never a good war or a bad peace. 
-— Benjamin Franklin
-
-10) When the power of love overcomes the love of power, the world will know peace.
-― Jimi Hendrix (Ghandi also said this)
-
-11) Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee.
-― Augustine of Hippo
-
-12) Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.
-― Martin Luther King Jr.
-
-13) True peace and tranquillity will only be realized when every soul will have become the well-wisher of all mankind. 
-— Bahá'u'lláh
-
-14) Peace begins with a smile. 
-— Mother Teresa
-
 <HTML>
   <HEAD>
-    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
+    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals / Peace</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Peace. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Peace</H1>
 <UL>
 
-TEXT HERE
+<P>1) Rejoice in the Lord always: and again I say, Rejoice.<BR>
+Let your moderation be known unto all men. The Lord is at hand.<BR>
+Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.<BR>
+And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.<BR>
+Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.<BR>
+Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.<BR><BR>
+- Bible: Philippians 4: 4-9</P>
+
+<P>2) Peace comes from within. Do not seek it without. <BR><BR>
+— Buddha</P>
+
+<P>3) Peace cannot be kept by force. It can only be achieved by understanding. <BR><BR>
+— Albert Einstein</P>
+
+<P>4) True peace is not merely the absence of tension: it is the presence of justice. <BR><BR>
+— Martin Luther King Jr.</P>
+
+<P>5) There is no 'way to peace,' there is only 'peace'. <BR><BR>
+— Mahatma Gandhi</P>
+
+<P>6) The well-being of mankind, its peace and security, are unattainable unless and until its unity is firmly established.<BR><BR>
+- Baha'u'llah, Gleanings CXXXI</P>
+
+<P>7) You will find peace not by trying to escape your problems, but by confronting them courageously.<BR><BR>
+- J. Donald Walters</P>
+
+<P>8) Peace isn't a feeling to relate to. It's a higher quality of beingness to return to. <BR><BR>
+- John de Ruiter</P>
+
+<P>9) There was never a good war or a bad peace. <BR><BR>
+— Benjamin Franklin</P>
+
+<P>10) When the power of love overcomes the love of power, the world will know peace.<BR><BR>
+― Jimi Hendrix (Gandhi also said this)</P>
+
+<P>11) Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee.<BR><BR>
+― Augustine of Hippo</P>
+
+<P>12) Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.<BR><BR>
+― Martin Luther King Jr.</P>
+
+<P>13) True peace and tranquillity will only be realized when every soul will have become the well-wisher of all mankind.<BR><BR> 
+— Bahá'u'lláh</P>
+
+<P>14) Peace begins with a smile.<BR><BR> 
+— Mother Teresa</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
