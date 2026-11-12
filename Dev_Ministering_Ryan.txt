@@ -34,4 +34,34 @@ And, behold, I send the promise of my Father upon you: but tarry ye in the city 
 O Lord!
 Open Thou the door, provide the means, prepare the way, make safe the path, that we may be guided to those souls whose hearts are prepared for Thy Cause and that they may be guided to us. Verily, Thou art the Merciful, the Most Bountiful, the All-Powerful.
 
+<HTML>
+  <HEAD>
+    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+  </HEAD>
+  <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
+    <H1>Ryan's Baha'i Site</H1>
+    <H1>Multi-Faith Devotionals</H1>
+    <H1>Divine Law</H1>
+<UL>
+
+TEXT HERE
+
+       <H2>Contents of Site / Navigation </H2>
+  <UL>
+    <LI><A HREF = "/ryanbahai/index.html">Home page</A></LI>
+    <LI><A HREF = "/ryanbahai/singingprayers.html">Singing Prayers</A></LI>
+    <LI><A HREF = "/ryanbahai/articles.html">Articles</A></LI>
+    <LI><A HREF = "/ryanbahai/tests.html">Tests and trials compilation</A></LI>
+    <LI><A HREF = "/ryanbahai/devotionals.html">Multi-Faith devotionals</A></LI>
+    <LI><A HREF = "/ryanbahai/writtenprayers.html">Selected Written Prayers</A></LI>
+    
+  </UL>
+</UL>
+<HR>
+  <CENTER>Copywright &copy; 2026 Ryan Kazemi, pen name Keny Ramzai<BR>
+  <A HREF = "/ryanbahai/contact.html">Contact Form</A></CENTER>
+  </B>  </BODY>
+</HTML>
 
