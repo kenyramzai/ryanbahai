@@ -1,61 +1,57 @@
-MULTI FAITH DEVOTIONAL
-MERCY
-
-1) In God will I praise his word: in the Lord will I praise his word.
-In God have I put my trust: I will not be afraid what man can do unto me.
-Thy vows are upon me, O God: I will render praises unto thee.
-For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?
-- Psalm 56 : 10-13 (a prayer)
-
-2) The good are innocent and create justice. The bad are guilty, which is why they invent mercy.
-- From Terry Pratchett's Witches Abroad
-
-3) O SON OF MAN! The true lover yearneth for tribulation even as doth the rebel for forgiveness and the sinful for mercy." 
-- Bahá'u'lláh, The Hidden Words, No. 49 Arabic.
-
-4) I have always found that mercy bears greater fruits than strict justice. 
-- Abraham Lincoln
-
-5) Nothing can make injustice just but mercy.
-- Robert Frost
-
-6) A little bit of mercy makes the world less cold and more just.
-- Pope Francis
-
-*** INTERLUDE: Christie singing Holy, Holy, Holy
-
-7) The quality of mercy is not strain'd, it droppeth as the gentle rain from heaven Upon the place beneath: it is twice blest; It blesseth him that gives and him that takes.
-- William Shakespeare 
-
-8) O SON OF MAN! My calamity is My providence, outwardly it is fire and vengeance, but inwardly it is light and mercy. Hasten thereunto that thou mayest become an eternal light and an immortal spirit. This is My command unto thee, do thou observe it.
-- Bahá'u'lláh, The Hidden Words, No. 51 Arabic.
-
-9) So, have mercy, have compassion! the world noble and beautiful. judge yourself harshly. Without mercy for ourselves we cannot love the world.
-- Gautama Buddha (Buddhism)
-
-10) Bismillah al-Rahman al-Rahim ("In the name of God, the Most Compassionate, the Most Merciful")
-- The most repeated phrase of the Qu'ran
-
-11) He is the Supreme Lord God, the Transcendent Lord, the Lord of the Universe, the Treasure of mercy, compassion and forgiveness.
-- Sri Guru Granth Sahib (Sikhism)
-
-12) Prayer for healing (Baha'i)
-Thy Name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succor in both this world and the world to come. Thou, verily, art the All-Bountiful, the All-Knowing, the All-Wise. 
-— Bahá'u'lláh
-
 <HTML>
   <HEAD>
     <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Mercy. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Mercy</H1>
 <UL>
 
-TEXT HERE
+<P>1) In God will I praise his word: in the Lord will I praise his word.<BR>
+In God have I put my trust: I will not be afraid what man can do unto me.<BR>
+Thy vows are upon me, O God: I will render praises unto thee.<BR>
+For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?<BR><BR>
+- Psalm 56 : 10-13 (a prayer)</P>
+
+<P>2) The good are innocent and create justice. The bad are guilty, which is why they invent mercy.<BR><BR>
+- From Terry Pratchett's Witches Abroad</P>
+
+<P>3) O SON OF MAN!<BR>
+The true lover yearneth for tribulation even as doth the rebel for forgiveness and the sinful for mercy. <BR><BR>
+- Bahá'u'lláh, The Hidden Words, No. 49 Arabic.</P>
+
+<P>4) I have always found that mercy bears greater fruits than strict justice. <BR><BR>
+- Abraham Lincoln</P>
+
+<P>5) Nothing can make injustice just but mercy.<BR><BR>
+- Robert Frost</P>
+
+<P>6) A little bit of mercy makes the world less cold and more just.<BR><BR>
+- Pope Francis</P>
+
+<P>7) The quality of mercy is not strain'd, it droppeth as the gentle rain from heaven Upon the place beneath: it is twice blest; It blesseth him that gives and him that takes.<BR><BR>
+- William Shakespeare </P>
+
+<P>8) O SON OF MAN! <BR>
+My calamity is My providence, outwardly it is fire and vengeance, but inwardly it is light and mercy. Hasten thereunto that thou mayest become an eternal light and an immortal spirit. This is My command unto thee, do thou observe it.<BR><BR>
+- Bahá'u'lláh, The Hidden Words, No. 51 Arabic.</P>
+
+<P>9) So, have mercy, have compassion! the world noble and beautiful. judge yourself harshly. Without mercy for ourselves we cannot love the world.<BR><BR>
+- Gautama Buddha (Buddhism)</P>
+
+<P>10) Bismillah al-Rahman al-Rahim ("In the name of God, the Most Compassionate, the Most Merciful")<BR><BR>
+- The most repeated phrase of the Qu'ran</P>
+
+<P>11) He is the Supreme Lord God, the Transcendent Lord, the Lord of the Universe, the Treasure of mercy, compassion and forgiveness.<BR><BR>
+- Sri Guru Granth Sahib (Sikhism)</P>
+
+<P>12) Prayer for healing (Baha'i)<BR>
+Thy Name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succor in both this world and the world to come. Thou, verily, art the All-Bountiful, the All-Knowing, the All-Wise. <BR><BR>
+— Bahá'u'lláh</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
