@@ -1,66 +1,60 @@
-MULTI FAITH DEVOTIONAL
-KIDNESS
-
-1) A man who is kind benefits himself, but a cruel man hurts himself.
-- Proverbs 11:17
-
-2) Kindness is the language which the deaf can hear and the blind can see. 
-— Mark Twain
-
-3) Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day, someone might do the same for you.
-— Princess Diana
-
-4) No act of kindness, no matter how small, is ever wasted.
-- Aesop
-
-5) Be kind, for everyone you meet is fighting a battle you know nothing about.
-- Plato
-
-6) What do we live for, if it is not to make life less difficult for each other?
-- George Eliot
-
-7) Be kind whenever possible. It is always possible.
-- Dalai Lama
-
-8) Generosity involves assuming the best about others' intentions and actions.
-- Brene Brown
-
-*** INTERLUDE: Christie singing "Ave Maria"
-
-9) Educate the children in their infancy in such a way that they may become exceedingly kind and merciful to the animals. If an animal is sick they should endeavor to cure it; if it is hungry, they should feed it; if it is thirsty, they should satisfy its thirst; if it is tired, they should give it rest.
-- Abdu'l Baha
-
-10) Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings. Radiating kindness over the entire world... unbounded, freed from hatred and ill-will.
-— The Buddha
-
-11) Be kind to all beings, this is more meritorious than bathing at the sixty-eight sacred shrines of pilgrimage and donating money. 
-— Guru Nanak (Sikhism)
-
-12) Kind words and forgiveness are better than charity followed by injury. And Allah is Self-Sufficient, Most Forbearing. 
-- Quran 2:263
-
-13) And be kind to parents, relatives, orphans, the poor, near and distant neighbors, close friends, [needy] travelers...
-- Quran 4:36
-
-14) Do not be content with showing friendship in words alone, let your heart burn with loving kindness for all who may cross your path.
-— Bahá'u'lláh
-
-15) Be ye sincerely kind, not in appearance only. Let each one of God's loved ones centre his attention on this: to be the Lord's mercy to man... Let him do some good to every person whose path he crosseth. 
-— ʻAbdu'l-Baha
-
 <HTML>
   <HEAD>
     <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Kindness. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Kindness</H1>
 <UL>
 
-TEXT HERE
+<P>1) A man who is kind benefits himself, but a cruel man hurts himself.<BR><BR>
+- Proverbs 11:17</P>
+
+<P>2) Kindness is the language which the deaf can hear and the blind can see. <BR><BR>
+— Mark Twain</P>
+
+<P>3) Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day, someone might do the same for you.<BR><BR>
+— Princess Diana</P>
+
+<P>4) No act of kindness, no matter how small, is ever wasted.<BR><BR>
+- Aesop</P>
+
+<P>5) Be kind, for everyone you meet is fighting a battle you know nothing about.<BR><BR>
+- Plato</P>
+
+<P>6) What do we live for, if it is not to make life less difficult for each other?<BR><BR>
+- George Eliot</P>
+
+<P>7) Be kind whenever possible. It is always possible.<BR><BR>
+- Dalai Lama</P>
+
+<P>8) Generosity involves assuming the best about others' intentions and actions.<BR><BR>
+- Brene Brown</P>
+
+<P>9) Educate the children in their infancy in such a way that they may become exceedingly kind and merciful to the animals. If an animal is sick they should endeavor to cure it; if it is hungry, they should feed it; if it is thirsty, they should satisfy its thirst; if it is tired, they should give it rest.<BR><BR>
+- Abdu'l Baha</P>
+
+<P>10) Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings. Radiating kindness over the entire world... unbounded, freed from hatred and ill-will.<BR><BR>
+— The Buddha</P>
+
+<P>11) Be kind to all beings, this is more meritorious than bathing at the sixty-eight sacred shrines of pilgrimage and donating money. <BR><BR>
+— Guru Nanak (Sikhism)</P>
+
+<P>12) Kind words and forgiveness are better than charity followed by injury. And Allah is Self-Sufficient, Most Forbearing. <BR><BR>
+- Quran 2:263</P>
+
+<P>13) And be kind to parents, relatives, orphans, the poor, near and distant neighbors, close friends, [needy] travelers...<BR><BR>
+- Quran 4:36</P>
+
+<P>14) Do not be content with showing friendship in words alone, let your heart burn with loving kindness for all who may cross your path.<BR><BR>
+— Bahá'u'lláh</P>
+
+<P>15) Be ye sincerely kind, not in appearance only. Let each one of God's loved ones centre his attention on this: to be the Lord's mercy to man... Let him do some good to every person whose path he crosseth. <BR><BR>
+— ʻAbdu'l-Baha</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
