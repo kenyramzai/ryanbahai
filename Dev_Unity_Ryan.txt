@@ -1,39 +1,37 @@
-1)
-"We may have all come on different ships. But we're in the same boat now"
---- Martin Luther King, Jr.
-
-2)
-"Behold, how good and how pleasant it is for brethren to dwell together in unity!"
---- Psalm 133:1
-
-3)
-"Endeavouring to keep the unity of the Spirit in the bond of peace.
-There is one body, and one Spirit, even as ye are called in one hope of your calling;
-One Lord, one faith, one baptism,
-One God and Father of all, who is above all, and through all, and in you all."
---- Ephesians 4
-
-4) 
-Music video: Playing for change
-https://www.youtube.com/watch?v=6vT_7AX06UQ
-
-5)
-The well-being of mankind, its peace and security, are unattainable unless and until its unity is firmly established. This unity can never be achieved so long as the counsels which the Pen of the Most High hath revealed are suffered to pass unheeded.
---- Baha'u'llah (Gleanings)
-
 <HTML>
   <HEAD>
-    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
+    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals / Unity</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Unity. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Unity</H1>
 <UL>
 
-TEXT HERE
+<P>1)
+"We may have all come on different ships. But we're in the same boat now"<BR><BR>
+--- Martin Luther King, Jr.</P>
+
+<P>2)
+"Behold, how good and how pleasant it is for brethren to dwell together in unity!"<BR><BR>
+--- Psalm 133:1</P>
+
+<P>3)
+"Endeavouring to keep the unity of the Spirit in the bond of peace.<BR>
+There is one body, and one Spirit, even as ye are called in one hope of your calling;<BR>
+One Lord, one faith, one baptism,<BR>
+One God and Father of all, who is above all, and through all, and in you all."<BR><BR>
+--- Ephesians 4</P>
+
+<P>4) 
+<A TARGET = "BLANK" HREF = "https://www.youtube.com/watch?v=6vT_7AX06UQ">Music video: Playing for change</A></P>
+
+<P>5)
+The well-being of mankind, its peace and security, are unattainable unless and until its unity is firmly established. This unity can never be achieved so long as the counsels which the Pen of the Most High hath revealed are suffered to pass unheeded.<BR><BR>
+--- Baha'u'llah (Gleanings)</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
