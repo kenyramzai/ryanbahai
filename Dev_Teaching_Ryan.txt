@@ -1,78 +1,72 @@
-MULTI FAITH DEVOTIONAL 
-TEACHING
-
-1) There are two things on what interpretation of Scripture depends. The process of discovering what we need to learn, and the process of presenting what we have learned.
-- Augustine of Hippo (On Christian Teaching)
-
-2) Every great teacher once had a teacher...
-- Anonymous
-
-3) I never teach my pupils. I only try to provide the conditions in which they learn.
-- Albert Einstein
-
-4) I cannot teach anybody anything; I can only make them think.
-- Socrates
-
-5) Teaching is the highest form of understanding.
-- Aristotle
-
-6) When one teaches, two learn.
-- Robert Heinlein
-
-7) Tell me and I forget. Teach me and I remember. Involve me and I learn.
-- Benjamin Franklin
-
-8) Train up a child in the way he should go; even when he is old he will not depart from it.
-- Proverbs 22:6 (Christianity)
-
-9) All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.
-- 2 Timothy 3:16 (Christianity)
-
-*** INTERLUDE: Christie singing "Come, Thou font of every blessing"
-
-10) Allah will raise those who have believed among you and those who were given knowledge, by degrees.
-- Surah Al-Mujadila (58:11) (Islam)
-
-11) And say, 'My Lord, increase me in knowledge.'
-- Surah Ta-Ha (20:114) (Islam)
-
-12) However many holy words you read, however many you speak, what good will they do you if you do not act upon them?
-- Gautama Buddha
-
-13) Do not believe anything on the mere authority of teachers or priests. Accept as true and as the guide to your life only that which accords with your own reason and experience, after thorough investigation. Accept only that which contributes to the well-being of yourself and others.
-- Gautama Buddha
-
-14) Truth is the highest virtue, but higher still is truthful living.
-- Guru Nanak (Sikhism)
-
-15) Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom.
-- Baha'u'llah (Baha'i)
-
-16) The Prophets and Messengers of God have been sent down for the sole purpose of guiding mankind to the straight Path of Truth. The purpose underlying Their revelation hath been to educate all men, that they may, at the hour of death, ascend, in the utmost purity and sanctity and with absolute detachment, to the throne of the Most High.
-- Baha'u'llah (Baha'i)
-
-17) ... As ye have faith so shall your powers and blessings be. This is the balance – this is the balance – this is the balance.
-- Abdu'l-Baha (Baha'i)
-
-18) And whoever shall not receive you or hear your words, shake the dust off your feet... 
-- Matthew 10:14 (Jesus speaking)
-
-19) For it is not preaching and rules the world wants, but love and action.
-- Shoghi Effendi (Guardian of the Baha'i Faith)
-
 <HTML>
   <HEAD>
-    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals</TITLE>
+    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals / Teaching</TITLE>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Divine Law. Ryan Kazemi. Keny Ramzai.">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Teaching. Ryan Kazemi. Keny Ramzai.">
   </HEAD>
   <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
     <H1>Ryan's Baha'i Site</H1>
     <H1>Multi-Faith Devotionals</H1>
-    <H1>Divine Law</H1>
+    <H1>Teaching</H1>
 <UL>
 
-TEXT HERE
+<P>1) There are two things on what interpretation of Scripture depends. The process of discovering what we need to learn, and the process of presenting what we have learned.<BR><BR>
+- Augustine of Hippo (On Christian Teaching)</P>
+
+<P>2) Every great teacher once had a teacher...<BR><BR>
+- Anonymous</P>
+
+<P>3) I never teach my pupils. I only try to provide the conditions in which they learn.<BR><BR>
+- Albert Einstein</P>
+
+<P>4) I cannot teach anybody anything; I can only make them think.<BR><BR>
+- Socrates</P>
+
+<P>5) Teaching is the highest form of understanding.<BR><BR>
+- Aristotle</P>
+
+<P>6) When one teaches, two learn.<BR><BR>
+- Robert Heinlein</P>
+
+<P>7) Tell me and I forget. Teach me and I remember. Involve me and I learn.<BR><BR>
+- Benjamin Franklin</P>
+
+<P>8) Train up a child in the way he should go; even when he is old he will not depart from it.<BR><BR>
+- Proverbs 22:6 (Christianity)</P>
+
+<P>9) All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.<BR><BR>
+- 2 Timothy 3:16 (Christianity)</P>
+
+<P>10) Allah will raise those who have believed among you and those who were given knowledge, by degrees.<BR><BR>
+- Surah Al-Mujadila (58:11) (Islam)</P>
+
+<P>11) And say, 'My Lord, increase me in knowledge.'<BR><BR>
+- Surah Ta-Ha (20:114) (Islam)</P>
+
+<P>12) However many holy words you read, however many you speak, what good will they do you if you do not act upon them?<BR><BR>
+- Gautama Buddha</P>
+
+<P>13) Do not believe anything on the mere authority of teachers or priests. Accept as true and as the guide to your life only that which accords with your own reason and experience, after thorough investigation. Accept only that which contributes to the well-being of yourself and others.<BR><BR>
+- Gautama Buddha</P>
+
+<P>14) Truth is the highest virtue, but higher still is truthful living.<BR><BR>
+- Guru Nanak (Sikhism)</P>
+
+<P>15) Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom.<BR><BR>
+- Baha'u'llah (Baha'i)</P>
+
+<P>16) The Prophets and Messengers of God have been sent down for the sole purpose of guiding mankind to the straight Path of Truth. The purpose underlying Their revelation hath been to educate all men, that they may, at the hour of death, ascend, in the utmost purity and sanctity and with absolute detachment, to the throne of the Most High.<BR><BR>
+- Baha'u'llah (Baha'i)</P>
+
+<P>17) ... As ye have faith so shall your powers and blessings be. This is the balance – this is the balance – this is the balance.<BR><BR>
+- Abdu'l-Baha (Baha'i)</P>
+
+<P>18) And whoever shall not receive you or hear your words, shake the dust off your feet... <BR><BR>
+- Matthew 10:14 (Jesus speaking)</P>
+
+<P>19) For it is not preaching and rules the world wants, but love and action.<BR><BR>
+- Shoghi Effendi (Guardian of the Baha'i Faith)</P>
+
 
        <H2>Contents of Site / Navigation </H2>
   <UL>
