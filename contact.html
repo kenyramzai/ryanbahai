@@ -8,26 +8,41 @@
 </HEAD>
 <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
   <H1>Ryan's Baha'i Site</H1>
-  <H1>Contact form under construction</H1>
+  <H1>Contact Form</H1>
 <UL>
-  <H2>Contact Form</H2>
-  
-  <form id="contactForm" action ="https://formspree.io/f/mkjroykb" method = "POST">
-  <div>
-    <label for="name">Name</label><BR>
-    <input type="text" id="name" name="name" required>
+
+<form
+  action="https://formspree.io/f/mkjroykb"
+  class="fs-form"
+  target="_top"
+  method="POST"
+>
+  <div class="fs-field">
+    <label class="fs-label" for="name">Your Name</label>
+    <input class="fs-input" id="name" name="name" required />
   </div>
-  <div>
-    <label for="email">Email</label><BR>
-    <input type="email" id="email" name="email" required>
+  <div class="fs-field">
+    <label class="fs-label" for="email">Email</label>
+    <input class="fs-input" id="email" name="email" required />
+    <p class="fs-description">
+      This will help me respond to your query via an email.
+    </p>
   </div>
-  <div>
-    <label for="message">Message</label><BR>
-    <textarea id="message" name="message" rows="5" required></textarea>
+  <div class="fs-field">
+    <label class="fs-label" for="message">Message</label>
+    <textarea
+      class="fs-textarea"
+      id="message"
+      name="message"
+      required
+    ></textarea>
+    <p class="fs-description">What would you like to discuss?</p>
   </div>
-  <button type="submit">Send Message</button>
-  <p id="formStatus"></p>
+  <div class="fs-button-group">
+    <button class="fs-button" type="submit">Submit</button>
+  </div>
 </form>
+
 <H2>Contents of Site / Navigation </H2>
   <UL>
     <LI><A HREF = "/ryanbahai/index.html">Home page</A></LI>
