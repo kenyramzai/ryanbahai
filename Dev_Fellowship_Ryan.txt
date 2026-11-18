@@ -1,40 +1,67 @@
-MULTI-FAITH DEVOTIONAL
-FELLOWSHIP
+<HTML>
+  <HEAD>
+    <TITLE>Ryan's Baha'i Site / Multi-Faith devotionals / Fellowship</TITLE>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <META NAME = "description" CONTENT = "Ryan's Baha'i Site. Ryan's Site about the Baha'i Faith. Multi-Faith devotionals. Fellowship. Ryan Kazemi. Keny Ramzai.">
+  </HEAD>
+  <BODY BGCOLOR="MAROON" LINK="WHITE" VLINK="WHITE" TEXT ="SILVER"><B>
 
-1) But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
-- 1 John 1:7 (Bible)
+    <CENTER>Navigation<BR>
+  
+    [<A HREF = "/ryanbahai/index.html">Home page</A>]
+    [<A HREF = "/ryanbahai/singingprayers.html">Singing Prayers</A></LI>]
+    [<A HREF = "/ryanbahai/articles.html">Articles</A></LI>]
+    [<A HREF = "/ryanbahai/tests.html">Tests and trials compilation</A>]
+    [<A HREF = "/ryanbahai/devotionals.html">Multi-Faith devotionals</A>]
+    [<A HREF = "/ryanbahai/writtenprayers.html">Selected Written Prayers</A>]
+  </CENTER>
+    <HR>
+    
+    <H1>Ryan's Baha'i Site</H1>
+    <H1>Multi-Faith Devotionals</H1>
+    <H1>Fellowship</H1>
+<UL>
 
-2) And let us consider one another to provoke unto love and to good works:
-Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-- Hebrews 10:24-25 (Bible)
 
-3) The believers are but one brotherhood, so make peace between your brothers. And be mindful of Allah so you may be shown mercy.
-- Surah Al-Hujurat 49:10 (Qur'an)
+<P>1) But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.<BR><BR>
+- 1 John 1:7 (Bible)</P>
 
-4) ...And [He] brought together their hearts. If you had spent all that is in the earth, you could not have brought their hearts together; but Allah brought them together..
-- Surah Al-Anfal 8:63 (Qur'an)
+<P>2) And let us consider one another to provoke unto love and to good works:<BR>
+Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.<BR><BR>
+- Hebrews 10:24-25 (Bible)</P>
 
-5) No one is my enemy, and none is a stranger to me. Everyone is my friend.
-- Guru Arjan Dev Ji (Sikhism)
+<P>3) The believers are but one brotherhood, so make peace between your brothers. And be mindful of Allah so you may be shown mercy.<BR><BR>
+- Surah Al-Hujurat 49:10 (Qur'an)</P>
 
-6) Friend, if you possess some good, let us be friends. Let us be partners for doing good, and let us ignore each other's flaws.
-- Guru Nanak Dev Ji (Sikhism)
+<P>4) ...And [He] brought together their hearts. If you had spent all that is in the earth, you could not have brought their hearts together; but Allah brought them together..<BR><BR>
+- Surah Al-Anfal 8:63 (Qur'an)</P>
 
-*** INTERLUDE Christie singing
+<P>5) No one is my enemy, and none is a stranger to me. Everyone is my friend.<BR><BR>
+- Guru Arjan Dev Ji (Sikhism)</P>
 
-7) ... This is the entire holy life, ... that is, good friendship, good companionship, good comradeship.
-- The Buddha
+<P>6) Friend, if you possess some good, let us be friends. Let us be partners for doing good, and let us ignore each other's flaws.<BR><BR>
+- Guru Nanak Dev Ji (Sikhism)</P>
 
-8) Just as the dawn is the forerunner of the sunrise, so good friendship is the forerunner for the arising of the noble eightfold path.
-- The Buddha
+<P>7) ... This is the entire holy life, ... that is, good friendship, good companionship, good comradeship.<BR><BR>
+- The Buddha</P>
 
-9) Consort with the followers of all religions in a spirit of friendliness and fellowship.
-- Baha'u'llah
+<P>8) Just as the dawn is the forerunner of the sunrise, so good friendship is the forerunner for the arising of the noble eightfold path.<BR><BR>
+- The Buddha</P>
 
-10) With the utmost friendliness and in a spirit of perfect fellowship take ye counsel together, and dedicate the precious days of your lives to the betterment of the world and the promotion of the Cause of Him Who is the Ancient and Sovereign Lord of all.
-- Baha'u'llah
+<P>9) Consort with the followers of all religions in a spirit of friendliness and fellowship.<BR><BR>
+- Baha'u'llah</P>
 
-11) But ye, brethren, be not weary in well doing.
-And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.
-Yet count him not as an enemy, but admonish him as a brother.
-- 2 Thessalonians 3:13-15 (Bible)
+<P>10) With the utmost friendliness and in a spirit of perfect fellowship take ye counsel together, and dedicate the precious days of your lives to the betterment of the world and the promotion of the Cause of Him Who is the Ancient and Sovereign Lord of all.<BR><BR>
+- Baha'u'llah</P>
+
+<P>11) But ye, brethren, be not weary in well doing.<BR>
+And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.<BR>
+Yet count him not as an enemy, but admonish him as a brother.<BR><BR>
+- 2 Thessalonians 3:13-15 (Bible)</P>
+    
+</UL>
+<HR>
+  <CENTER>Copywright &copy; 2026 Ryan Kazemi, pen name Keny Ramzai<BR>
+  <A HREF = "/ryanbahai/contact.html">Contact Form</A></CENTER>
+  </B>  </BODY>
+</HTML>
